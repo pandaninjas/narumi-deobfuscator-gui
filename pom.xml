@@ -6,7 +6,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>narumi-deobf-gui</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <name>narumi-deobf-gui</name>
 
     <properties>
@@ -64,7 +64,7 @@
         <dependency>
             <groupId>com.github.pandaninjas</groupId>
             <artifactId>Deobfuscator</artifactId>
-            <version>3724606</version>
+            <version>edd277a</version>
         </dependency>
     </dependencies>
 
