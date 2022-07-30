@@ -6,7 +6,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>narumi-deobf-gui</artifactId>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <name>narumi-deobf-gui</name>
 
     <properties>
