@@ -2,9 +2,8 @@ module NarumiDeobfGUI {
     requires javafx.fxml;
     requires javafx.graphics;
     requires javafx.controls;
-//    requires Deobfuscator;
     requires org.objectweb.asm;
-    requires Deobfuscator.edd277a;
+    requires Deobfuscator.b36adf9;
     opens gq.malwarefight.narumiideobfgui to javafx.fxml;
     exports gq.malwarefight.narumiideobfgui to javafx.graphics;
 }
