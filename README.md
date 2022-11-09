@@ -1,5 +1,5 @@
 # narumi-deobfuscator-gui
-![downloads](https://narumi-deobfuscator-gui-stat.thefightagainstmalware.workers.dev/)<br>
+![downloads](https://download-counter.thefightagainstmalware.workers.dev/pandaninjas/narumi-deobfuscator-gui?filter=jar)<br>
 GUI for the [Narumi deobfuscator](https://github.com/narumii/Deobfuscator)
 ## Usage
 If you want *all* the transformers, not just the composed transformers, run the program with the argument `useraw`<br>
