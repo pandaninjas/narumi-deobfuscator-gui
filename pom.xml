@@ -88,8 +88,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.example.narumideobfgui/com.example.narumideobfgui.HelloApplication
-                            </mainClass>
+                            <mainClass>NarumiDeobfGUI/gq.malwarefight.narumiideobfgui.DeobfuscatorGUIApp</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
