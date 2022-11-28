@@ -6,7 +6,7 @@
 
     <groupId>gq.malwarefight</groupId>
     <artifactId>narumi-deobf-gui</artifactId>
-    <version>1.2.0</version>
+    <version>1.2.1</version>
     <name>narumi-deobf-gui</name>
 
     <properties>
@@ -48,23 +48,10 @@
             <version>11.0.2</version>
             <classifier>mac</classifier>
         </dependency>
-
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>${junit.version}</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-engine</artifactId>
-            <version>${junit.version}</version>
-            <scope>test</scope>
-        </dependency>
         <dependency>
             <groupId>com.github.pandaninjas</groupId>
             <artifactId>Deobfuscator</artifactId>
-            <version>bfb27d4</version>
+            <version>809112</version>
         </dependency>
     </dependencies>
 
