@@ -6,7 +6,7 @@
 
     <groupId>gq.malwarefight</groupId>
     <artifactId>narumi-deobf-gui</artifactId>
-    <version>1.2.1</version>
+    <version>1.3.0</version>
     <name>narumi-deobf-gui</name>
 
     <properties>
