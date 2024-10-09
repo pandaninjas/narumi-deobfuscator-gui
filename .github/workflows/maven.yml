@@ -31,6 +31,6 @@ jobs:
       run: mvn -B package --file pom.xml
       
     - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v4.3.6
+      uses: actions/upload-artifact@v4.4.3
       with:
         path: ./target/narumi-deobf-gui-*-jar-with-dependencies.jar
