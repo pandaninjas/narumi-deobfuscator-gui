@@ -50,7 +50,7 @@
         <dependency>
             <groupId>com.github.pandaninjas</groupId>
             <artifactId>Deobfuscator</artifactId>
-            <version>b0599f6</version>
+            <version>1.0.1</version>
         </dependency>
     </dependencies>
 
